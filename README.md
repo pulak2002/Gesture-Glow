@@ -1,4 +1,4 @@
-# Gesture-Based-Face-Feature-Selection
+# Gesture Glow: Gesture Based Face Feature Selection
 Face (facial) landmarks are fundamental features of the human face that help us recognise various faces. The nose, brow, lips, and corners of the eyes are only a few examples of prominent human facial landmarks. The landmarks in a facial image are typically their 2D positions in the image plane.In our project we are using mediapipe as a face dectection model after construction of the model Now to perform the detection on the sample image, we will have to pass the image (in RGB format) into the loaded model and we will get an object that will have an attribute detection that contains a list of a bounding box and six key points for each face in the image. The six key points are on the:
 
 Right Eye
